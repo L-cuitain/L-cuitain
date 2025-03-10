@@ -1,7 +1,4 @@
-<p align="Center" ><img src="https://camo.githubusercontent.com/6c462df7a80f58974ae914a49f0bdf532d7cefb7fe1027307f38e79d93dc044c/68747470733a2f2f7468756d62732e6766796361742e636f6d2f476f6f646e617475726564466f6e64476175722d73697a655f726573747269637465642e676966" ></p>
-
-
-<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm L-cuitain <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Lugwfn <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
 Welcome to my Github! I'm a college student and learning front-end web technology now 😄
 
@@ -32,15 +29,4 @@ Welcome to my Github! I'm a college student and learning front-end web technolog
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zmanslost@gmail.com)
 [![Twitter](https://img.shields.io/badge/-TWITTER-4d9feb?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CuitainL)
 
-
-
-### Some Stats About L-cuitain
-<p align="center" >
-<img alt="L-cuitain's github stats" src="https://github-readme-stats.vercel.app/api?username=L-cuitain&count_private=true&hide=issues,contribs&show_icons=true&bg_color=30,8EC5FC,E0C3FC"  > 
-</p>
-
-### And L-cuitain Most Used Languages
-<p align="center" >
-<img alt="L-cuitain's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-cuitain&layout=compact&bg_color=30,8EC5FC,E0C3FC"  > 
-</p>
 
